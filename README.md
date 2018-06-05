@@ -10,7 +10,8 @@ Reconstruction by sampling patches and stitching along minumum cost seam
 
 Constructing a large texture image from a small one
 
-![source](./screenshots/cherry.jpg | width=100) ![target](./screenshots/cherry_cut.jpg | width=200)
+![source](screenshots/cherry.jpg | width=100) 
+![target](./screenshots/cherry_cut.jpg)
 
 ### Texture Transfer
 
