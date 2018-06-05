@@ -30,7 +30,7 @@ Filling the hole by sampling patches from outside the hole and stitching from ou
 
 Blend a source area to target image seamlessly
 
-### Possion Blending
+### Poisson Blending
 
 ![bear](./screenshots/polar_bear.jpg) ![snow](./screenshots/snow.jpg) ![blend](./screenshots/possionblend.jpg)
 
