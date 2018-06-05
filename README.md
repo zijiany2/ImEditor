@@ -17,7 +17,7 @@ Constructing a large texture image from a small one
 
 Stitching patches sampled from source texture to fit target firgure
 
-![source](./screenshots/sketch.png =250x) ![target](./screenshots/feynman.png =250x) ![transfer](./screenshots/transfer.jpg)
+![source](./screenshots/sketch.png)<!-- .element height="50%" width="50%" --> ![target](./screenshots/feynman.png =250x) ![transfer](./screenshots/transfer.jpg)
 
 ### Hole Filling
 
