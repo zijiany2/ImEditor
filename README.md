@@ -4,7 +4,7 @@ Intelligent Image Editor
 
 ## Quilting
 
-Reconstruction by sampling patches and stitching along minumum cost seam
+Reconstruction by sampling patches and stitching along minimum cost seam
 
 ### Texture Synthesis
 
@@ -15,7 +15,7 @@ Constructing a large texture image from a small one
 
 ### Texture Transfer
 
-Stitching patches sampled from source texture to fit target firgure
+Stitching patches sampled from source texture to fit target figure
 
 ![source](./screenshots/sketch.png) ![target](./screenshots/feynman.png) ![transfer](./screenshots/transfer.jpg)
 
@@ -41,5 +41,5 @@ Blend a source area to target image seamlessly
 
 ## Face Morphing
 
-[Here](https://youtu.be/vI6KBtKDtrg) is a vedio demo.
+[Here](https://youtu.be/vI6KBtKDtrg) is a video demo.
 
